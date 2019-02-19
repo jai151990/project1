@@ -1,2 +1,8 @@
-hi
-please update
+pipeline {
+  stages {
+    stage('checkout') {
+    step { 
+      sh }
+    }
+  }
+}
