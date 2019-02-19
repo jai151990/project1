@@ -4,6 +4,6 @@ pipeline {
     step { 
       giturl }
     }
-  
+stages  
 }
 }
