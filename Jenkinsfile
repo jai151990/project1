@@ -4,8 +4,6 @@ pipeline {
     step { 
       giturl }
     }
-<<<<<<< HEAD
-<<<<<<< HEAD
 stages  
 }
 =======
